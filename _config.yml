@@ -1,3 +1,13 @@
-title: Wadika Faisal
+title: "Wadika Faisal"
+description: "Process Improvement Engineer (EIT) | M.Eng Student | Founder of EmpowerHer Lab"
+theme: jekyll-theme-simple
+show_downloads: false
 
-theme: jekyll-theme-minimal
+author:
+  name: "Wadika Faisal"
+  email: ""
+  linkedin: "https://www.linkedin.com/your-link"
+  github: "https://github.com/your-username"
+  location: "Toronto, Canada"
+
+markdown: kramdown
